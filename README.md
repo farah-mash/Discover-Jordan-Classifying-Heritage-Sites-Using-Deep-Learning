@@ -14,3 +14,7 @@ In this project, we leverage deep learning techniques to build an image classifi
   - First phase: freeze base model (15 epochs)  
   - Second phase: unfreeze top layers and fine-tune (15 epochs)
 - **Loss Function:** `CategoricalCrossentropy`
+### Note:
+Total Images: 328
+Number of Classes: 7
+Class Labels:Dead_Sea, Petra, Roman_Theater, Wadi_Rum, ajloun, dana, jarash
